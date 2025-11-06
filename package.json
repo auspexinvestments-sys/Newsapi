@@ -1,0 +1,11 @@
+{
+  "name": "news-api-proxy",
+  "version": "1.0.0",
+  "description": "API proxy for Vercel",
+  "scripts": {
+    "start": "node api/index.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2" 
+  }
+}
